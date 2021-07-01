@@ -18,6 +18,7 @@
 - [x] comentarios
 - [x] Deletar post
 - [x] Recuperação de senha 
+- [x] Scroll Infinito 
 - [] chat 
 - [] mais...
 
